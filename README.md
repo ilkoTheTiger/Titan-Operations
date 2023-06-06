@@ -105,3 +105,32 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 33. Navigate back from the **Top-Left** backwards arrow
 ![Step 35](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step35.JPG)
+
+33. We should see the calendar added to our list of **Calendars**
+![Step 36](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step36.JPG)
+
+34. Keep in mind that trying to add new event is only going to add it to the first visible calendar and **NOT** to the rest of the Service Providers' calendars
+![Step 37](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step37.JPG)
+
+35. Therefore a rule of thumb is to only have **selected** the calendar of the Service Provider we want to add events to. Or simply, create it our primary calendar and then copy it to theirs
+![Step 38](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step38.JPG)
+
+36. This will prompt us to **Save** the event as if newly created. Changing the information inside the event will only reflect inside the Calendar of the Service Provider we are copying the event to.
+
+37. Just one more last step to allow the account to use the application is adding it to the Test Users. Navigate to https://console.cloud.google.com/apis/credentials/consent?project=titan-cleaners and click on **+ Add Users** button
+![Step 39](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step39.JPG)
+
+38. Add their email on the right-side slider bar and **Save**
+![Step 40](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step40.JPG)
+
+39. Now they're good to go! To test it, navigate to http://3.124.1.210:3000/ and use their email to **Sign In**
+![Step 41](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step41.JPG)
+
+40. The events should start appearing in the **Home** section, as soon as they're added to their Calendar, which during first login is going to ask for consent, so make sure to click on **Continue**
+![Step 42](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step42.JPG)
+
+41. Then check the box for to **See, edit, delete calendar events**
+![Step 43](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step43.JPG)
+
+42. And there we are, the account is now fully configured and ready to use by the respective Service Provider
+![Step 44](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step43.JPG)
