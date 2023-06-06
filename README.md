@@ -53,3 +53,9 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 16. On the next step **Turn off features**
 ![Step 17](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step17.JPG)
+
+17. Our fresh account is ready to use but not configured yet, press **Reload**
+![Step 18](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step18.JPG)
+
+18. To configure it we need to switch to it by clicking on the avatar at the Top-Right and then **Add Another Account**
+![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
