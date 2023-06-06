@@ -26,3 +26,18 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 8. On this step select **Manual Personalization (5 steps)** then press **Next**
 ![Step 8](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step8.JPG)
+
+9. On **Step 1 of 5** select **Keep until I delete manually** then press **Next**
+![Step 9](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step9.JPG)
+
+9. On **Step 2 of 5** select **Keep until I delete manually** then press **Next**
+![Step 10](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step10.JPG)
+
+10. On **Step 3 of 5** select **Show me generic ads** then press **Next**
+![Step 11](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step11.JPG)
+
+11. On **Step 4 of 5** just press **Next**
+![Step 12](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step12.JPG)
+
+12. On **Step 5 of 5** just scroll-down and press **Next**
+![Step 13](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step13.JPG)
