@@ -18,7 +18,11 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 5. Choose **Create your own Gmail Address** and follow the convention **titancleaners.*name*@gmail.com** then click Next
 ![Step 5](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step5.JPG)
 
-6. The password part should be following the company convention for generating and distributing passwords to users, as for the recovery email, always choose **titancleanersuk@gmail.com**
+6. The password part should be following the company convention for generating and distributing passwords to users, as for the recovery email, always choose **titancleanersuk@gmail.com**, also make sure to press **Next** to apply it
 ![Step 6](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step6.JPG)
 
-7.
+7. On the phone part enter our **work phone number** then press **Next**, review the information and **Next** again
+![Step 7](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step7.JPG)
+
+8. On this step select **Manual Personalization (5 steps)** then press **Next**
+![Step 8](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step8.JPG)
