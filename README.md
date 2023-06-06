@@ -54,8 +54,14 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 16. On the next step **Turn off features**
 ![Step 17](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step17.JPG)
 
-17. Our fresh account is ready to use but not configured yet, press **Reload**
+17. Our fresh account is ready to use but not configured yet, press **Reload** or just close this **Tab** now
 ![Step 18](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step18.JPG)
 
-18. To configure it we need to switch to it by clicking on the avatar at the Top-Right and then **Add Another Account**
-![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
+18. Right-click on Google Chrome Icon and click on **Google Chrome** then click on **Add** when it asks you for Profile
+ ![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
+
+ 18. Click on **Sign In**
+ ![Step 20](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step20.JPG)
+
+ 18. Enter the Email Address we just created and its password afterwards
+ ![Step 21](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step21.JPG)
