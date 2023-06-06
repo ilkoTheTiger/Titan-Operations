@@ -48,7 +48,7 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 14. In a bit it's going to say **Your Google Account is Ready**, press **Not Now**
 ![Step 15](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step15.JPG)
 
-15. You'll be prompted to enable **Smart features**, select **Turn off smart features** and on the next step **Turn off features** as it may filter emails or auto-create events in our Service Providers calendar
+15. You'll be prompted to enable **Smart features**, select **Turn off smart features** as it may filter emails or auto-create events in our Service Providers calendar
 ![Step 16](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step16.JPG)
 
 16. On the next step **Turn off features**
@@ -78,7 +78,7 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 24. On the left side next to the main calendar (Titan *Name*) you should see **3 dots** in vertical, click on them and select **Settings and Sharing**
 ![Step 25](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step25.JPG)
 
-25. On this page we should make the Calendar public and allow the admin user to modify it, let's do each of it on at a time
+25. On this page we should make the Calendar public and allow the admin user to modify it, let's do each of it one at a time
 ![Step 26](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step26.JPG)
 
 26. Tick the box before **Make available to public** then click **OK** and make sure **See all event details** is selected 
@@ -93,7 +93,7 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 29. Under Section **Other Notifications** enable **Daily Agenda** email option, this will send all events from the calendar as an email to the **Service Provider** at the start of each day. Pretty much their program for the day. 
 ![Step 30](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step30.JPG)
 
-30. Again on the lift, click on **Integrate Calendar** and copy the **Public address in iCal format** URL
+30. Again on the left, click on **Integrate Calendar** and copy the **Public address in iCal format** URL
 ![Step 31](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step31.JPG)
 
 31. Navigate back to the **titancleanersuk@gmail.com** Google Chrome session and from go to https://calendar.google.com/ then click on the plus next to **Other Calendars**
@@ -112,12 +112,12 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 34. Keep in mind that trying to add new event is only going to add it to the first visible calendar and **NOT** to the rest of the Service Providers' calendars
 ![Step 37](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step37.JPG)
 
-35. Therefore a rule of thumb is to only have **selected** the calendar of the Service Provider we want to add events to. Or simply, create it our primary calendar and then copy it to theirs
+35. Therefore a rule of thumb is to only have **selected** the calendar of the Service Provider we want to add events to. Or simply, create it in our primary calendar and then copy it to theirs
 ![Step 38](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step38.JPG)
 
-36. This will prompt us to **Save** the event as if newly created. Changing the information inside the event will only reflect inside the Calendar of the Service Provider we are copying the event to.
+36. This will prompt us to **Save** the event as if newly created. **At this time**, changing the information inside the event will only reflect inside the Calendar of the Service Provider we are copying the event to.
 
-37. Just one more last step to allow the account to use the application is adding it to the Test Users. Navigate to https://console.cloud.google.com/apis/credentials/consent?project=titan-cleaners and click on **+ Add Users** button
+37. Just one more last step to allow the account to use the application is adding it to the Test Users. Navigate to https://console.cloud.google.com/apis/credentials/consent?project=titan-cleaners and click on **+ Add Users** button. **You have to be logged-in with titancleanersuk@gmail.com or access will be denied.**
 ![Step 39](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step39.JPG)
 
 38. Add their email on the right-side slider bar and **Save**
@@ -133,4 +133,4 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 ![Step 43](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step43.JPG)
 
 42. And there we are, the account is now fully configured and ready to use by the respective Service Provider
-![Step 44](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step43.JPG)
+![Step 44](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step44.JPG)
