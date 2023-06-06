@@ -92,3 +92,16 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 29. Under Section **Other Notifications** enable **Daily Agenda** email option, this will send all events from the calendar as an email to the **Service Provider** at the start of each day. Pretty much their program for the day. 
 ![Step 30](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step30.JPG)
+
+30. Again on the lift, click on **Integrate Calendar** and copy the **Public address in iCal format** URL
+![Step 31](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step31.JPG)
+
+31. Navigate back to the **titancleanersuk@gmail.com** Google Chrome session and from go to https://calendar.google.com/ then click on the plus next to **Other Calendars**
+![Step 32](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step32.JPG)
+
+32. Choose **From URL** then paste the link and tick the **Make the calendar publicly accessible?** and click **Add Calendar**. The link in the first field is the one we got from the **Integrate Calendar** section in the **Service Provider's** calendar settings
+![Step 33](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step33.JPG)
+![Step 34](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step34.JPG)
+
+33. Navigate back from the **Top-Left** backwards arrow
+![Step 35](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step35.JPG)
