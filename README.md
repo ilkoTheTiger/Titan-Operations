@@ -47,3 +47,6 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 14. In a bit it's going to say **Your Google Account is Ready**, press **Not Now**
 ![Step 15](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step15.JPG)
+
+15. You'll be prompted to enable **Smart features**, select **Turn off smart features** as it may filter emails or auto-create events in our Service Providers calendar
+![Step 16](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step16.JPG)
