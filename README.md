@@ -12,3 +12,7 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 3. Enter Name and Surname following some kind of convention, e.g., Titan for First Name and Actual Name on Surname (Marcy)
 ![Step 3](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step3.JPG)
 
+4. Enter some memorable Date of Birth, let's say 29th October 1995 and their gender respectively
+![Step 4](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step4.JPG)
+
+5. 
