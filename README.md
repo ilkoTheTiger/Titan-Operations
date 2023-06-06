@@ -15,5 +15,10 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 4. Enter some memorable Date of Birth, let's say 29th October 1995 and their gender respectively
 ![Step 4](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step4.JPG)
 
-5. Choose **Create your own Gmail Address** and follow the convention **titancleaners.*name*@gmail.com**
+5. Choose **Create your own Gmail Address** and follow the convention **titancleaners.*name*@gmail.com** then click Next
 ![Step 5](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step5.JPG)
+
+6. The password part should be following the company convention for generating and distributing passwords to users, as for the recovery email, always choose **titancleanersuk@gmail.com**
+![Step 6](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step6.JPG)
+
+7.
