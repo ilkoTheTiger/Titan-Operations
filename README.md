@@ -77,3 +77,14 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 
 24. On the left side next to the main calendar (Titan *Name*) you should see **3 dots** in vertical, click on them and select **Settings and Sharing**
 ![Step 25](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step25.JPG)
+
+25. On this page we should make the Calendar public and allow the admin user to modify it, let's do each of it on at a time
+![Step 26](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step26.JPG)
+
+26. Tick the box before **Make available to public** then click **OK** and make sure **See all event details** is selected 
+![Step 27](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step27.JPG)
+
+27. Enter **titancleanersuk@gmail.com** in the first field and select the last option - **Make changes and manage sharing** then **Send**
+![Step 28](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step28.JPG)
+
+28. 
