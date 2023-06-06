@@ -39,5 +39,11 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 11. On **Step 4 of 5** just press **Next**
 ![Step 12](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step12.JPG)
 
-12. On **Step 5 of 5** just scroll-down and press **Next**
+12. On **Step 5 of 5** just scroll-down and press **Confirm**
 ![Step 13](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step13.JPG)
+
+13. Then again scroll-down and press **I agree**
+![Step 14](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step14.JPG)
+
+14. In a bit it's going to say **Your Google Account is Ready**, press **Not Now**
+![Step 15](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step15.JPG)
