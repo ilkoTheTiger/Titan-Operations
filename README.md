@@ -87,4 +87,8 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 27. Enter **titancleanersuk@gmail.com** in the first field and select the last option - **Make changes and manage sharing** then **Send**
 ![Step 28](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step28.JPG)
 
-28. 
+28. When done it should be looking like the example below, you can scroll-down or click on **Event Notifications** on the left
+![Step 29](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step29.JPG)
+
+29. Under Section **Other Notifications** enable **Daily Agenda** email option, this will send all events from the calendar as an email to the **Service Provider** at the start of each day. Pretty much their program for the day. 
+![Step 30](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step30.JPG)
