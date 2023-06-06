@@ -58,16 +58,22 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 ![Step 18](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step18.JPG)
 
 18. Right-click on Google Chrome Icon and click on **Google Chrome** then click on **Add** when it asks you for Profile
- ![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
+![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
 
 19. Click on **Sign In**
- ![Step 20](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step20.JPG)
+![Step 20](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step20.JPG)
 
 20. Enter the Email Address we just created and its password afterwards
- ![Step 21](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step21.JPG)
+![Step 21](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step21.JPG)
 
 21. You should be prompted to **Turn On Sync** so just click **Yes, I'm in**
- ![Step 22](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step22.JPG)
+![Step 22](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step22.JPG)
 
- 21. Voila! We are inside the newly created profile, it's time to configure it but first select its colour and **Save**
- ![Step 23](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step23.JPG)
+22. Voila! We are inside the newly created profile, it's time to configure it but first select its colour and **Save**
+![Step 23](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step23.JPG)
+
+23. You can now navigate to https://calendar.google.com/ then click **Got It**
+![Step 24](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step24.JPG)
+
+24. On the left side next to the main calendar (Titan *Name*) you should see **3 dots** in vertical, click on them and select **Settings and Sharing**
+![Step 25](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step25.JPG)
