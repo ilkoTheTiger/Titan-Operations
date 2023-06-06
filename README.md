@@ -60,8 +60,14 @@ For that part, we'll be required to create a fresh Gmail account and configure i
 18. Right-click on Google Chrome Icon and click on **Google Chrome** then click on **Add** when it asks you for Profile
  ![Step 19](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step19.JPG)
 
- 18. Click on **Sign In**
+19. Click on **Sign In**
  ![Step 20](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step20.JPG)
 
- 18. Enter the Email Address we just created and its password afterwards
+20. Enter the Email Address we just created and its password afterwards
  ![Step 21](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step21.JPG)
+
+21. You should be prompted to **Turn On Sync** so just click **Yes, I'm in**
+ ![Step 22](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step22.JPG)
+
+ 21. Voila! We are inside the newly created profile, it's time to configure it but first select its colour and **Save**
+ ![Step 23](https://github.com/ilkoTheTiger/Titan-Operations/blob/main/pics/RegisterGoogleAccount/Step23.JPG)
